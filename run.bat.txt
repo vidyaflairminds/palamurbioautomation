@@ -1,0 +1,2 @@
+cd C:\Users\vidya\git\repository2\PalamurBioAutomation>
+mvn test
